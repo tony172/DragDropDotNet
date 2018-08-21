@@ -1,0 +1,19 @@
+E:\Odjel za stručne studije\C#\Vježbe\Lab8\obj\Debug\Lab3_4.exe
+E:\Odjel za stručne studije\C#\Vježbe\Lab8\obj\Debug\Lab3_4.pdb
+E:\Odjel za stručne studije\C#\Vježbe\Lab8\bin\Debug\Lab3_4.exe
+E:\Odjel za stručne studije\C#\Vježbe\Lab8\bin\Debug\Lab3_4.pdb
+E:\Odjel za stručne studije\C#\Vježbe\Lab8\obj\Debug\ResolveAssemblyReference.cache
+E:\Odjel za stručne studije\C#\Vježbe\Lab8\obj\Debug\Labs.AppForm.resources
+E:\Odjel za stručne studije\C#\Vježbe\Lab8\obj\Debug\Labs.MyLabel.resources
+E:\Odjel za stručne studije\C#\Vježbe\Lab8\obj\Debug\Labs.PersonPropertiesForm.resources
+E:\Odjel za stručne studije\C#\Vježbe\Lab8\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Odjel za stručne studije\C#\Vježbe\Lab8\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\1\OneDrive\Lab8\bin\Debug\Lab3_4.exe
+C:\Users\1\OneDrive\Lab8\bin\Debug\Lab3_4.pdb
+C:\Users\1\OneDrive\Lab8\obj\Debug\Lab3_4.csprojResolveAssemblyReference.cache
+C:\Users\1\OneDrive\Lab8\obj\Debug\Labs.AppForm.resources
+C:\Users\1\OneDrive\Lab8\obj\Debug\Labs.MyLabel.resources
+C:\Users\1\OneDrive\Lab8\obj\Debug\Labs.PersonPropertiesForm.resources
+C:\Users\1\OneDrive\Lab8\obj\Debug\Lab3_4.csproj.GenerateResource.Cache
+C:\Users\1\OneDrive\Lab8\obj\Debug\Lab3_4.exe
+C:\Users\1\OneDrive\Lab8\obj\Debug\Lab3_4.pdb

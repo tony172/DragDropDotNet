@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lab3_4">
+</Property><Property Name="Solution File" Value="E:\Odjel za stručne studije\C#\Vježbe\Lab8\Lab3_4.sln">
+</Property><Property Name="User Options File" Value="E:\Odjel za stručne studije\C#\Vježbe\Lab8\Lab3_4.suo">
+</Property><Property Name="Date" Value="16. svibnja 2013.">
+</Property><Property Name="Time" Value="17:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lab3_4.sln" Description="File successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\Lab3_4.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Lab3_4.suo" Description="File successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\Lab3_4.suo">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="Lab3_4.csproj" Description="Project file successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\Lab3_4.csproj">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="Lab3_4.csproj.user" Description="Project user file successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\Lab3_4.csproj.user">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="AppForm.cs" Description="File successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\AppForm.cs">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="AssemblyInfo.cs" Description="File successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="MyLabel.cs" Description="File successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\MyLabel.cs">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="Person.cs" Description="File successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\Person.cs">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="PersonPropertiesForm.cs" Description="File successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\PersonPropertiesForm.cs">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="App.ico" Description="File successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="AppForm.resx" Description="File successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\AppForm.resx">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="MyLabel.resx" Description="File successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\MyLabel.resx">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="PersonPropertiesForm.resx" Description="File successfully backed up as E:\Odjel za stručne studije\C#\Vježbe\Lab8\Backup\PersonPropertiesForm.resx">
+</Event><Event ErrorLevel="1" Project="Lab3_4" Source="Lab3_4.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="Lab3_4.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Lab3_4" Source="Lab3_4.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lab3_4.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Lab3_4.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Lab3_4" Source="Lab3_4.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
